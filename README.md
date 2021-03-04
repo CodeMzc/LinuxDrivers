@@ -1,2 +1,14 @@
-# LinuxDrivers
-Some commonly used electronic modules for Linux system drivers
+# Linux Drivers仓库说明
+- 一些常用的电子模块的Linux系统驱动
+- 驱动目录按模块接口分类
+
+# 已有模块驱动
+
+## I2C
+
+- MPU6050六轴姿态传感器
+- HMC5883L三轴磁力计
+
+# 长期更新
+
+如果各位有需求或者说不会实现某些模块的驱动，可以发issues，咱们一起讨论学习。
